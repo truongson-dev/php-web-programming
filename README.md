@@ -20,11 +20,15 @@ The system allows users to:
 
 This project was developed using PHP and MySQL to practice server-side web development and database integration.
 ### Homepage
-![Homepage](img/Picture6.png),(img/Picture7.png),(img/Picture8.png),(img/Picture9.png)
+![Homepage](img/Picture6.png)
+(img/Picture7.png)
+(img/Picture8.png)
+(img/Picture9.png)
 
 ### Booking System
 ![Booking](images/booking.png)
 
 ### Team Matching
 ![Team Matching](images/team-matching.png)
+
 
